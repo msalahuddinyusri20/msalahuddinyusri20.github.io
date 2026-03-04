@@ -12,13 +12,13 @@ main:
     url: /cv/
 
   - title: "Achievements"
-    url: /teaching/    
+    url: /achievements/    
 
   - title: "Activities"
-    url: /portfolio/    
+    url: /activities/    
     
   - title: "Mission"
-    url: /publications/
+    url: /mission/
         
   - title: "Academics"
     url: /academics/
