@@ -33,10 +33,13 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 | History (Sejarah) | Core | *Pending* |
 | English | Core | *Pending* |
 | Malay Language | Core | *Pending* |
-| Islamic Studies / Tahfiz | Core | *Pending* |
-| Chinese Communication | Elective | *Pending* |
+| Arabic | Elective | *Pending* |
+| Islamic Studies | Core | *Pending* |
+| Hifz Al-Quran | Elective | *Pending* |
+| Maharat Al-Quran | Elective | *Pending* |
+| Chinese Communication | UPBA | *Pending* |
 
-*(Note: Will update upon official results release. Trial results available upon request.)*
+*(Note: Will update upon official results release.Trial results available upon request.)*
 
 ---
 
