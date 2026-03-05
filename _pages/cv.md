@@ -23,6 +23,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 * **Trial SPM 2024:** Achieved 8A+, including Additional Mathematics.
 
 ### Sijil Pelajaran Malaysia (SPM) 2025 - Target/Results
+
 | Subject | Stream | Grade |
 | :--- | :--- | :--- |
 | Additional Mathematics | Pure Science | *Pending* |
