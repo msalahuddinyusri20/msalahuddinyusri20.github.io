@@ -59,7 +59,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 
 ---
 
-## Technical & Linguistic Competencies
+## Technical & Linguistic Capabilities
 
 ### Digital Literacy
 * **Programming:** Python (Self-taught; focusing on logic and automation)
