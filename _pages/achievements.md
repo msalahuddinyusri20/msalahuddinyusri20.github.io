@@ -36,7 +36,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
 ---
 
-## 🔬 Academic & Intellectual Excellence
+## Academic & Intellectual Excellence
 *This section demonstrates intellectual consistency, logic-based problem solving, and mastery of foundational STEM subjects.*
 
 * **Bronze Award, National Kangaroo Math Competition (National, 2025)**
@@ -51,7 +51,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
 ---
 
-## 🎖️ Leadership, Maturity & Operations
+## Leadership, Maturity & Operations
 *This section highlights exceptional leadership skills, strategic capabilities, and the ability to manage peers and execute complex operations.*
 
 * **Pegawai Waran I, Kadet Remaja Sekolah / KRS (National, 2025)**
@@ -63,7 +63,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
 ---
 
-## 🛡️ Holistic Discipline, Character & Resilience
+## Holistic Discipline, Character & Resilience
 *This section provides undeniable proof of physical resilience, collaborative teamwork, and unshakeable personal integrity.*
 
 * **4th Place(2025), State Representative(2024) MSSWP Volleyball U18 (State)**
@@ -77,7 +77,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
 ---
 
-## 📁 Evidence Vault
+## Evidence Vault
 *(Below is a selection of official certificates verifying the achievements listed above.)*
 
 {% include gallery %}
