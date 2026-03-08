@@ -59,7 +59,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 * **EXCO Akademik, SISKA (School, 2025)** & **AJK Akademik, ASFAR (School, 2024)**
   * *Impact:* Progressed from committee member to Executive Council, managing academic prep operations and peer-learning environments for the student body.
 * **Anti-Bullying Creative Video Competitions (State & School, 2024)**
-  * *Impact:* **4th Place (State Level)** and **Champion (School Level)** at the HEM Symposium. Showcases digital media proficiency, creative storytelling, and proactive social advocacy.
+  * *Impact:* **4th Place (State Level)** and **Champion (School Level)** at the HEM Symposium. Showcases digital media proficiency, creative storytelling, and relevent issues awarness.
 
 ---
 
