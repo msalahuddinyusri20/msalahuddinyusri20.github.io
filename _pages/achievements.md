@@ -27,7 +27,7 @@ gallery:
   - url: /images/kangaroo-math-2023.jpg
     image_path: /kangaroo-math-2023.jpg
     alt: Kangaroo Math Honorable Mention"
-    title: "Academic Excellence: Best Overall Form 4"
+    title: "Analytical Proof: Kangaroo Math Bronze"
 ---
 
 {% include base_path %}
