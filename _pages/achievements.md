@@ -24,10 +24,6 @@ gallery:
     image_path: images/best-student-f4.jpg
     alt: "Best Student Form 4 UASA"
     title: "Academic Excellence: Best Overall Form 4"
-  - url: images/kangaroo-math-2023.jpg
-    image_path: images/kangaroo-math-2023.jpg
-    alt: "Kangaroo Math Honorable Mention"
-    title: "Analytical Growth: 2023 Honorable Mention"
 ---
 
 {% include base_path %}
