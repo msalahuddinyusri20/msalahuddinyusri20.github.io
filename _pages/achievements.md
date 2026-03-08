@@ -4,8 +4,8 @@ title: "Portfolio of Excellence & Achievements"
 permalink: /achievements/
 author_profile: true
 gallery:
-  - url: images/krs-pwi.jpg
-    image_path: images/krs-pwi.jpg
+  - url: /images/krs-pwi.jpg
+    image_path: /images/krs-pwi.jpg
     alt: "Pegawai Waran I KRS"
     title: "National Leadership: Pegawai Waran I"
   - url: images/kangaroo-math.jpg
