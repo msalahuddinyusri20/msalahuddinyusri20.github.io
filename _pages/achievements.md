@@ -8,24 +8,24 @@ gallery:
     image_path: /image/krs-pwi.jpg
     alt: "Pegawai Waran I KRS"
     title: "National Leadership: Pegawai Waran I"
-  - url: images/kangaroo-math.jpg
-    image_path: images/kangaroo-math.jpg
+  - url: /image/kangaroo-math.jpg
+    image_path: /image/kangaroo-math.jpg
     alt: "Kangaroo Math Bronze"
     title: "Analytical Proof: Kangaroo Math Bronze"
-  - url: images/tokoh-jati-diri.jpg
-    image_path: images/tokoh-jati-diri.jpg
+  - url: /image/tokoh-jati-diri.jpg
+    image_path: /image/tokoh-jati-diri.jpg
     alt: "Tokoh Jati Diri"
     title: "Character Integrity: Tokoh Jati Diri"
-  - url: images/tahfiz-khatam.jpg
-    image_path: images/tahfiz-khatam.jpg
+  - url: /image/tahfiz-khatam.jpg
+    image_path: /image/tahfiz-khatam.jpg
     alt: "Khatam Hafazan"
     title: "Cognitive Stamina: Khatam Hafazan Al-Quran"
-  - url: images/best-student-f4.jpg
-    image_path: images/best-student-f4.jpg
+  - url: /image/best-student-f4.jpg
+    image_path: /image/best-student-f4.jpg
     alt: "Best Student Form 4 UASA"
     title: "Academic Excellence: Best Overall Form 4"
-  - url: images/kangaroo-math-2023.jpg
-    image_path: images/kangaroo-math-2023.jpg
+  - url: /image/kangaroo-math-2023.jpg
+    image_path: /image/kangaroo-math-2023.jpg
     alt: "Kangaroo Math Honorable Mention"
     title: "Analytical Growth: 2023 Honorable Mention"
 
