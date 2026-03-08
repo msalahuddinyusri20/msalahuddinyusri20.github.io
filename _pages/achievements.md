@@ -5,7 +5,7 @@ permalink: /achievements/
 author_profile: true
 gallery:
 
- -  image_path: /images/krs-pwi.jpg
+  - image_path: /images/krs-pwi.jpg
     alt: "Pegawai Waran I KRS"
     title: "National Leadership: Pegawai Waran I"
   - url: /images/kangaroo-math.jpg
