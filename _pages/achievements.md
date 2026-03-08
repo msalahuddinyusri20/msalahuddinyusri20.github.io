@@ -12,20 +12,20 @@ gallery:
     image_path: images/kangaroo-math.jpg
     alt: "Kangaroo Math Bronze"
     title: "Analytical Proof: Kangaroo Math Bronze"
-  - url: /images/tokoh-jati-diri.jpg
-    image_path: /images/tokoh-jati-diri.jpg
+  - url: images/tokoh-jati-diri.jpg
+    image_path: images/tokoh-jati-diri.jpg
     alt: "Tokoh Jati Diri"
     title: "Character Integrity: Tokoh Jati Diri"
-  - url: /images/tahfiz-khatam.jpg
-    image_path: /images/tahfiz-khatam.jpg
+  - url: images/tahfiz-khatam.jpg
+    image_path: images/tahfiz-khatam.jpg
     alt: "Khatam Hafazan"
     title: "Cognitive Stamina: Khatam Hafazan Al-Quran"
-  - url: /images/best-student-f4.jpg
-    image_path: /images/best-student-f4.jpg
+  - url: images/best-student-f4.jpg
+    image_path: images/best-student-f4.jpg
     alt: "Best Student Form 4 UASA"
     title: "Academic Excellence: Best Overall Form 4"
-  - url: /images/kangaroo-math-2023.jpg
-    image_path: /images/kangaroo-math-2023.jpg
+  - url: images/kangaroo-math-2023.jpg
+    image_path: images/kangaroo-math-2023.jpg
     alt: "Kangaroo Math Honorable Mention"
     title: "Analytical Growth: 2023 Honorable Mention"
 ---
