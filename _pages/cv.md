@@ -63,7 +63,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 
 ### Digital Literacy
 * **Programming:** Python (Self-taught; focusing on logic and automation)
-* **Software & Tools:** Adobe Photoshop (Graphic Design), Microsoft Office Suite (Moderate Excel data formatting, Word)
+* **Software & Tools:** Autocad Onshape (Basic Modelling), Adobe Photoshop (Graphic Design), Microsoft Office Suite (Moderate Excel data formatting, Word)
 
 ### Languages
 * **English:** Professional/Fluent
