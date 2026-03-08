@@ -58,7 +58,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
 | | | |
 |:---:|:---:|:---:|
-| ![KRS](images/krs-pwi.jpg) | ![Math](images/kangaroo-math.jpg) | ![Tokoh](images/tokoh-jati-diri.jpg) |
+| ![KRS](image/krs-pwi.jpg) | ![Math](images/kangaroo-math.jpg) | ![Tokoh](images/tokoh-jati-diri.jpg) |
 | **National Leadership: PW1** | **Kangaroo Math: Bronze** | **Tokoh Jati Diri** |
 | | | |
 | ![Tahfiz](images/tahfiz-khatam.jpg) | ![Academic](images/best-student-f4.jpg) | ![Math 23](images/kangaroo-math-2023.jpg) |
