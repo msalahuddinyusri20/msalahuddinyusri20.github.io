@@ -3,31 +3,6 @@ layout: archive
 title: "Portfolio of Excellence & Achievements"
 permalink: /achievements/
 author_profile: true
-gallery:
-  - url: /image/krs-pwi.jpg
-    image_path: /image/krs-pwi.jpg
-    alt: "Pegawai Waran I KRS"
-    title: "National Leadership: Pegawai Waran I"
-  - url: /image/kangaroo-math.jpg
-    image_path: /image/kangaroo-math.jpg
-    alt: "Kangaroo Math Bronze"
-    title: "Analytical Proof: Kangaroo Math Bronze"
-  - url: /image/tokoh-jati-diri.jpg
-    image_path: /image/tokoh-jati-diri.jpg
-    alt: "Tokoh Jati Diri"
-    title: "Character Integrity: Tokoh Jati Diri"
-  - url: /image/tahfiz-khatam.jpg
-    image_path: /image/tahfiz-khatam.jpg
-    alt: "Khatam Hafazan"
-    title: "Cognitive Stamina: Khatam Hafazan Al-Quran"
-  - url: /image/best-student-f4.jpg
-    image_path: /image/best-student-f4.jpg
-    alt: "Best Student Form 4 UASA"
-    title: "Academic Excellence: Best Overall Form 4"
-  - url: /image/kangaroo-math-2023.jpg
-    image_path: /image/kangaroo-math-2023.jpg
-    alt: "Kangaroo Math Honorable Mention"
-    title: "Analytical Growth: 2023 Honorable Mention"
 
 ---
 
@@ -81,4 +56,10 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 ## Evidence Vault
 *(Below is a selection of official certificates verifying the achievements listed above.)*
 
-{% include gallery %}
+| | | |
+|:---:|:---:|:---:|
+| ![KRS](image/krs-pwi.jpg) | ![Math](image/kangaroo-math.jpg) | ![Tokoh](image/tokoh-jati-diri.jpg) |
+| **National Leadership: PW1** | **Kangaroo Math: Bronze** | **Tokoh Jati Diri** |
+| | | |
+| ![Tahfiz](image/tahfiz-khatam.jpg) | ![Academic](image/best-student-f4.jpg) | ![Math 23](image/kangaroo-math-2023.jpg) |
+| **Khatam Al-Quran** | **Best Student Form 4** | **Math: Honorable Mention** |
