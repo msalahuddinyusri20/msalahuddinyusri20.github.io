@@ -56,13 +56,68 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 ## Evidence Vault
 *(Below is a selection of official certificates verifying the achievements listed above.)*
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| ![KRS](image/krs-pwi.jpg) | ![Math](image/kangaroo-math.jpg) | ![Tokoh](image/tokoh-jati-diri.jpg) | ![Tahfiz](image/tahfiz-khatam.jpg) |
-| **National Leadership: PW1** | **Kangaroo Math: Bronze** | **Tokoh Jati Diri** | **Khatam Al-Quran** |
-| | | | |
-| ![Best](image/best-student-f4.jpg) | ![Math23](image/kangaroo-math-2023.jpg) | ![Bola](image/Bola-Tampar-(N4).jpg) | ![Exco](image/Exco-Akademik.jpg) |
-| **Best Student F4** | **Math: Honorable Mention** | **Bola Tampar (N4)** | **Exco Akademik** |
-| | | | |
-| ![Terbaik Hifz](image/Terbaik-Hifz-F4.jpg) | ![Terbaik Sejarah](image/Terbaik-Sejarah-F4.jpg) | ![Terbaik Bio](image/Terbaik-biologi-F4.jpg) | ![Terbaik F3](image/Terbaik-keseluruhan-keempat-F3.jpg) |
-| **Terbaik Hifz F4** | **Terbaik Sejarah F4** | **Terbaik Biologi F4** | **Best Keseluruhan F3** |
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: grid; grid-template-rows: repeat(2, 320px); grid-auto-flow: column; gap: 25px; width: max-content;">
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/krs-pwi.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>National Leadership: PW1</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/kangaroo-math.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Kangaroo Math: Bronze</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/tokoh-jati-diri.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Tokoh Jati Diri</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/tahfiz-khatam.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Khatam Al-Quran</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/best-student-f4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student Form 4</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/kangaroo-math-2023.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Math: Honorable Mention</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/Bola%20Tampar%20(N4)%20.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Bola Tampar (N4)</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/Exco%20Akademik.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Exco Akademik</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/Terbaik%20Hifz%20F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Hifz F4</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/Terbaik%20Sejarah%20F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Sejarah F4</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/Terbaik%20biologi%20F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Biologi F4</b></figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 240px;">
+      <img src="image/Terbaik%20keseluruhan%20keempat%20F3.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Overall F3 (4th)</b></figcaption>
+    </figure>
+
+  </div>
+</div>
