@@ -61,7 +61,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/krs-pwi.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>National Leadership: PW1</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Pegawai Waran I</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
@@ -76,7 +76,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/tahfiz-khatam.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Khatam Al-Quran</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Al-Quran Memorization Completion</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
@@ -86,37 +86,37 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/kangaroo-math-2023.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Math: Honorable Mention</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Kangaroo Math: Honorable</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/Bola-Tampar-(N4).jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Bola Tampar (N4)</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Volleyball 4th Place</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/Exco-Akademik.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Exco Akademik</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Exco Akademic</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/Terbaik-Hifz-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Hifz F4</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student (Hifz Al-Quran)</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/Terbaik-Sejarah-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Sejarah F4</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student (History)</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/Terbaik-biologi-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Biologi F4</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student (Biology)</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
       <img src="/_pages/image/Terbaik-keseluruhan-keempat-F3.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Overall F3 (4th)</b></figcaption>
+      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Overall Form 3 (4th)</b></figcaption>
     </figure>
 
   </div>
