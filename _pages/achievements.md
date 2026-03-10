@@ -56,10 +56,13 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 ## Evidence Vault
 *(Below is a selection of official certificates verifying the achievements listed above.)*
 
-| | | |
-|:---:|:---:|:---:|
-| ![KRS](image/krs-pwi.jpg) | ![Math](image/kangaroo-math.jpg) | ![Tokoh](image/tokoh-jati-diri.jpg) |
-| **National Leadership: PW1** | **Kangaroo Math: Bronze** | **Tokoh Jati Diri** |
-| | | |
-| ![Tahfiz](image/tahfiz-khatam.jpg) | ![Academic](image/best-student-f4.jpg) | ![Math 23](image/kangaroo-math-2023.jpg) |
-| **Khatam Al-Quran** | **Best Student Form 4** | **Math: Honorable Mention** |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![KRS](image/krs-pwi.jpg) | ![Math](image/kangaroo-math.jpg) | ![Tokoh](image/tokoh-jati-diri.jpg) | ![Tahfiz](image/tahfiz-khatam.jpg) |
+| **National Leadership: PW1** | **Kangaroo Math: Bronze** | **Tokoh Jati Diri** | **Khatam Al-Quran** |
+| | | | |
+| ![Best](image/best-student-f4.jpg) | ![Math23](image/kangaroo-math-2023.jpg) | ![Bola](image/Bola-Tampar-(N4).jpg) | ![Exco](image/Exco-Akademik.jpg) |
+| **Best Student F4** | **Math: Honorable Mention** | **Bola Tampar (N4)** | **Exco Akademik** |
+| | | | |
+| ![Terbaik Hifz](image/Terbaik-Hifz-F4.jpg) | ![Terbaik Sejarah](image/Terbaik-Sejarah-F4.jpg) | ![Terbaik Bio](image/Terbaik-biologi-F4.jpg) | ![Terbaik F3](image/Terbaik-keseluruhan-keempat-F3.jpg) |
+| **Terbaik Hifz F4** | **Terbaik Sejarah F4** | **Terbaik Biologi F4** | **Best Keseluruhan F3** |
