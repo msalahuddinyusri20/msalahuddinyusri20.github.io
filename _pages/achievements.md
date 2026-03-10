@@ -90,32 +90,32 @@ As an aspiring engineer, I believe that true capability extends beyond the class
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="image/Bola%20Tampar%20(N4)%20.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <img src="image/Bola-Tampar-(N4).jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
       <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Bola Tampar (N4)</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="image/Exco%20Akademik.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <img src="image/Exco-Akademik.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
       <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Exco Akademik</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="image/Terbaik%20Hifz%20F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <img src="image/Terbaik-Hifz-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
       <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Hifz F4</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="image/Terbaik%20Sejarah%20F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <img src="image/Terbaik-Sejarah-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
       <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Sejarah F4</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="image/Terbaik%20biologi%20F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <img src="image/Terbaik-biologi-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
       <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Terbaik Biologi F4</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="image/Terbaik%20keseluruhan%20keempat%20F3.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
+      <img src="image/Terbaik-keseluruhan-keempat-F3.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
       <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Overall F3 (4th)</b></figcaption>
     </figure>
 
