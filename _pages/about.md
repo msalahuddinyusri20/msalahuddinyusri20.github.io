@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am **Muhammad Salahuddin**, a Form 5 student dedicated to academic excellence and leadership development. This site is a comprehensive website of my journey, designed to provide a deeper look into the achievements and experiences beyond my CV.
+![On Stage Achievement](/image/pentas.jpg)
 
----
+I am **Muhammad Salahuddin**, a Form 5 student dedicated to academic excellence and leadership development. This site is a comprehensive website of my journey, designed to provide a deeper look into the achievements and experiences beyond my CV.
 
 ## Key Highlights
 * **Academic Consistency:** Consistent Straight A's Academic Performer (Form 4 & Form 5).
 * **Leadership:** Pegawai Waran I in Kadet Remaja Sekolah (KRS).
 * **Logical Thinking:** Bronze Award in the National Kangaroo Math Competition.
 * **Athletics:** Competitive Volleyball (State Tournament level).
-
----
 
 ## 🔍 Navigation Guide
 I invite you to explore the different sections of my portfolio:
