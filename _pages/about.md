@@ -17,7 +17,7 @@ I am **Muhammad Salahuddin**, a Form 5 student dedicated to academic excellence 
 * **Logical Thinking:** Bronze Award in the National Kangaroo Math Competition.
 * **Athletics:** Competitive Volleyball (State Tournament level).
 
-## 🔍 Navigation Guide
+## Navigation Guide
 I invite you to explore the different sections of my portfolio:
 
 * **[My Professional CV](/cv):** An overview of my skills, education, and roles.
