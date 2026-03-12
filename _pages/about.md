@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![On Stage Achievement](_pages/image/pentas.jpg)
+![On Stage Achievement](image/pentas.jpg)
 
 I am **Muhammad Salahuddin**, a Form 5 student dedicated to academic excellence and leadership development. This site is a comprehensive website of my journey, designed to provide a deeper look into the achievements and experiences beyond my CV.
 
