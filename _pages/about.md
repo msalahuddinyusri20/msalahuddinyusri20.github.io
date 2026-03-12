@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Welcome Page"
+title: "Welcome to My Digital Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome to My Digital Portfolio
 
 I am **Muhammad Salahuddin**, a Form 5 student dedicated to academic excellence and leadership development. This site is a comprehensive website of my journey, designed to provide a deeper look into the achievements and experiences beyond my CV.
 
