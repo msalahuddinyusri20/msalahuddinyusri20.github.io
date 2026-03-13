@@ -45,7 +45,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
   <div style="display: flex; gap: 20px; width: max-content;">
 
     <figure style="margin: 0; text-align: center; width: 220px;">
-      <img src="insert SPM image format" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
+      <img src="/_pages/image/SPM_dummy" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
       <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #FFFFFF;"><b>SPM Result Slip</b></figcaption>
     </figure>
 
@@ -67,7 +67,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 ## Leadership & Project Management
 
 **EXCO Academic (Prefectorial Board)** | *2024 - 2025*
-* **Operations Management:** Directed a team of 8 academic committee members (AJK Akademik) to execute the "Pengawas Prep" program, ensuring a highly disciplined and optimized study environment for the student body aswell as providing impactful solutions for relevent academic issues.
+* **Operations Management:** Directed a team of 8 academic committee members (AJK Akademik) to execute the "Pengawas Prep" program, ensuring a highly disciplined and optimized study environment for the student body as well as providing impactful solutions for relevant academic issues.
 * **Resource Allocation:** Designed and enforced maintenance schedules, improving the overall conduciveness of academic facilities especially the studying room located in the school hostel.
 
 **Pegawai Waran II (Kadet Remaja Sekolah - KRS)** | *2024 - 2025*
@@ -82,8 +82,28 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 ## Technical & Linguistic Capabilities
 
 ### Digital Literacy
-* **Programming:** Python (Self-taught; focusing on logic and automation)
-* **Software & Tools:** Autocad Onshape (Basic Modelling), Adobe Photoshop (Graphic Design), Microsoft Office Suite (Moderate Excel data formatting, Word)
+
+**Python** — Self-taught: data processing, logic and automation.
+- Developed a Cafe Stock Management System in VS Code with real-time 
+  low-stock warnings triggered by z-score statistical analysis.
+- Includes full CRUD operations and persistent data saving/loading 
+  using spreadsheet files.
+- Actively practises algorithmic problem-solving through Codewars.
+
+**Onshape (CAD)** — Currently building foundational 3D modelling skills.
+- Completed introductory part modelling exercises as self-directed 
+  preparation for engineering coursework.
+- Actively expanding CAD skills ahead of A-Level studies.
+
+**Adobe Photoshop** — Basic graphic design and poster editing.
+- Designed and edited promotional materials for school events.
+
+**[Video Editing Software]** — Video editing and post-production.
+- Produced and edited the Anti-Bullying Creative Video as a team that achieved 
+  Champion at School Level and 4th Place at State Level (2024).
+
+**Microsoft Office Suite** — Working proficiency in Word and Excel.
+- Used for documentation, formatting and personal organisation.
 
 ### Languages
 * **English:** Professional/Fluent
