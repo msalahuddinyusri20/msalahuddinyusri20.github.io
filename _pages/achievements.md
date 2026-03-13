@@ -98,13 +98,54 @@ As an aspiring engineer, I believe that true capability extends beyond the class
   * *Impact:* Progressed from committee member to Executive Council, managing academic prep operations and peer-learning environments for the student body.
 * **Anti-Bullying Creative Video Competitions (State & School, 2024)**
   * *Impact:* **4th Place (State Level)** and **Champion (School Level)** at the HEM Symposium. Showcases digital media proficiency, creative storytelling, and relevent issues awarness.
+ 
+ <div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/krs-pwi.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Pegawai Waran I</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Exco-Akademik.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Academic Exco (2025)</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/AJK-Akademik.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Academics Committee Member (2024)</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/video-hentikan-buli.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Anti-Bullying Creative Video Competition: 4th Place</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Johan-simposium-HEM.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Anti-Bullying Creative Video Competition: 1st Place</figcaption>
+    </figure>
+
+  </div>
+</div>
 
 ---
 
 ## Holistic Discipline, Character & Resilience
 *This section provides undeniable proof of physical resilience, collaborative teamwork, and unshakeable personal integrity.*
 
-* **4th Place(2025), State Representative(2024) MSSWP Volleyball U18 (State)**
+* **4th Place(2025), School Representative (2024) MSSWP Volleyball U18 (State)**
   * *Impact:* Proves a multi-year commitment to physical endurance and strategic teamwork. Progressing from a state representative in 2024 to securing a top-4 finish the following year demonstrates resilience, coachability, and a drive for continuous improvement.
 * **Tokoh Jati Diri, Upper Secondary Male (School, 2024)**
   * *Impact:* Awarded for maintaining a clean discipline record and serving as a trusted role model for students and juniors.
@@ -113,73 +154,48 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 * **1st Runner Up (Naib Johan), State Hafazan Competition Juz 1-18 & 30 (State, 2023)**
 * **Mumtaz (Distinction) in ISBAT Examinations (May & Nov 2023)**
 
+ <div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Bola-Tampar-(N4).jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/MSSWP-Bola_Tampar-Penyertaan.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">MSSWP Volleyball Championship (2023)</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/tokoh-jati-diri.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Tokoh Jati Diri (2025)</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/tahfiz-khatam.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Memorization of the Quran Completion</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Tahfiz-1-18.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">State Hafazan Competition: 1st Runner Up</figcaption>
+    </figure>
+
+  </div>
+</div>
+
 ---
-
-## Evidence Vault
-*(Below is a selection of official certificates verifying the achievements listed above.)*
-
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
-  <div style="display: grid; grid-template-rows: repeat(2, 320px); grid-auto-flow: column; gap: 25px; width: max-content;">
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/krs-pwi.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Pegawai Waran I</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/kangaroo-math.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Kangaroo Math: Bronze</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/tokoh-jati-diri.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Tokoh Jati Diri</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/tahfiz-khatam.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Al-Quran Memorization Completion</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/best-student-f4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student Form 4</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/kangaroo-math-2023.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Kangaroo Math: Honorable</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/Bola-Tampar-(N4).jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Volleyball 4th Place</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/Exco-Akademik.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Exco Akademic</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/Terbaik-Hifz-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student (Hifz Al-Quran)</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/Terbaik-Sejarah-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student (History)</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/Terbaik-biologi-F4.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Student (Biology)</b></figcaption>
-    </figure>
-
-    <figure style="margin: 0; text-align: center; width: 240px;">
-      <img src="/_pages/image/Terbaik-keseluruhan-keempat-F3.jpg" style="height: 260px; border-radius: 8px; border: 1px solid #ddd; object-fit: contain;">
-      <figcaption style="font-size: 0.85em; margin-top: 8px; white-space: normal;"><b>Best Overall Form 3 (4th)</b></figcaption>
-    </figure>
 
   </div>
 </div>
