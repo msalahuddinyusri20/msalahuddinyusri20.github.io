@@ -45,17 +45,17 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
   <div style="display: flex; gap: 20px; width: max-content;">
 
     <figure style="margin: 0; text-align: center; width: 220px;">
-      <img src="/image/spm-results.jpg" style="height: 240px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
+      <img src="/_pages/image/spm-results.jpg" style="height: 240px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
       <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #666;"><b>SPM Result Slip</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 220px;">
-      <img src="/image/UPBA.jpg" style="height: 240px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
+      <img src="/_pages/image/UPBA.jpg" style="height: 240px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
       <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #666;"><b>UPBA Chinese Communication Result</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 220px;">
-      <img src="/image/trial.jpg" style="height: 240px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
+      <img src="/_pages/image/trial.jpg" style="height: 240px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
       <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #666;"><b>Trial SPM Result Slip</b></figcaption>
     </figure>
 
