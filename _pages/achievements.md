@@ -25,6 +25,68 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 * **Academic Excellence Award Form 2 (School, 2022)**
   * *Impact:* Establishes a documented, four-year baseline of outstanding academic performance and consistency leading up to the SPM examinations.
 
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/kangaroo-math.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Kangaroo Math: Bronze</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/kangaroo-math-2023.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Kangaroo Math: Honorable Mention</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/best-student-f4.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Best Overall Student 2024: Science Stream</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Terbaik-biologi-F4.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Best Student: Biology</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Terbaik-Sejarah-F4.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Best Student: History</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Terbaik-Hifz-F4.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Best Student: Hifz Al-Quran</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Terbaik-keseluruhan-keempat-F3.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Best Student Performance 2023: 4th Place</figcaption>
+    </figure>
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/Terbaik-keseluruhan-F2.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Best Student Performance Award 2022</figcaption>
+    </figure>
+
+  </div>
+</div>
+
 ---
 
 ## Leadership, Maturity & Operations
