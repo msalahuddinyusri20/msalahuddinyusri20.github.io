@@ -46,17 +46,17 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 
     <figure style="margin: 0; text-align: center; width: 220px;">
       <img src="insert SPM image format" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
-      <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #666;"><b>SPM Result Slip</b></figcaption>
+      <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #FFFFFF;"><b>SPM Result Slip</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 220px;">
       <img src="/_pages/image/UPBA.jpg" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
-      <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #666;"><b>UPBA Chinese Communication Result</b></figcaption>
+      <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #FFFFFF;"><b>UPBA Chinese Communication Result</b></figcaption>
     </figure>
 
     <figure style="margin: 0; text-align: center; width: 220px;">
       <img src="/_pages/image/trial.jpg" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
-      <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #666;"><b>Trial SPM Result Slip</b></figcaption>
+      <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #FFFFFF;"><b>Trial SPM Result Slip</b></figcaption>
     </figure>
 
     </div>
