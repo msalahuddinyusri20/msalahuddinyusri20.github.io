@@ -196,6 +196,3 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 </div>
 
 ---
-
-  </div>
-</div>
