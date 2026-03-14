@@ -49,8 +49,6 @@ responsibility to bring others up to your standard.*
       <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
     </figure>
 
-    <figure style="margin: 0; text-align: center; width: 220px;">     
-
   </div>
 </div>
 
