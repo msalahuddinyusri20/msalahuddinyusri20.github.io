@@ -77,8 +77,6 @@ was competing at state level as a skilled middle blocker.
 and improved is what separates someone with potential from someone who 
 actually delivers.*
 
-![MSSWP Volleyball 2025](/_pages/image/Bola-Tampar-(N4).jpg)
-
 ---
 
 ## EXCO Academic — Pengawas Prep Programme
@@ -105,8 +103,6 @@ prefect-led supervision system for night prep classrooms.
 *This was my first real experience of identifying a systemic problem, 
 designing a solution, and managing a team to implement it, a process 
 I intend to apply at a far larger scale as an engineer.*
-
-![EXCO Academic 2025](/_pages/image/Exco-Akademik.jpg)
 
 ---
 
