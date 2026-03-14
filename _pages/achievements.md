@@ -97,7 +97,7 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 * **EXCO Akademik, SISKA (School, 2025)** & **AJK Akademik, ASFAR (School, 2024)**
   * *Impact:* Progressed from committee member to Executive Council, managing academic prep operations and peer-learning environments for the student body.
 * **Anti-Bullying Creative Video Competitions (State & School, 2024)**
-  * *Impact:* **4th Place (State Level)** and **Champion (School Level)** at the HEM Symposium. Showcases digital media proficiency, creative storytelling, and relevent issues awarness.
+  * *Impact:* **4th Place (State Level)** and **Champion (School Level)** at the HEM Symposium. Showcases digital media proficiency, creative storytelling, and relevant issues awarness.
  
  <div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
   <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
@@ -143,14 +143,14 @@ As an aspiring engineer, I believe that true capability extends beyond the class
 ---
 
 ## Holistic Discipline, Character & Resilience
-*This section provides undeniable proof of physical resilience, collaborative teamwork, and unshakeable personal integrity.*
+*This section documents the personal discipline that shapes character beyond the classrooms consisting of physical resilience, spiritual commitment, and the unshakeable integrity of someone who leads by example.*
 
 * **4th Place(2025), School Representative (2024) MSSWP Volleyball U18 (State)**
   * *Impact:* Proves a multi-year commitment to physical endurance and strategic teamwork. Progressing from a state representative in 2024 to securing a top-4 finish the following year demonstrates resilience, coachability, and a drive for continuous improvement.
 * **Tokoh Jati Diri, Upper Secondary Male (School, 2024)**
   * *Impact:* Awarded for maintaining a clean discipline record and serving as a trusted role model for students and juniors.
 * **Khatam Hafazan Al-Quran (School, 2024)**
-  * *Impact:* Successfully completed full memorization of the holy Quran. This requires a level of mental resilience, daily discipline, and focus that directly translates to surviving rigorous engineering curriculums.
+  * *Impact:* Successfully completed full memorization of the holy Quran in under 4 dedicated years. This requires a level of continuous mental resilience, daily discipline, and focus that directly translates to surviving rigorous engineering curriculums.
 * **1st Runner Up (Naib Johan), State Hafazan Competition Juz 1-18 & 30 (State, 2023)**
 * **Mumtaz (Distinction) in ISBAT Examinations (May & Nov 2023)**
 
