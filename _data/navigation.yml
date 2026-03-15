@@ -17,8 +17,8 @@ main:
   - title: "Activities"
     url: /activities/    
     
-  - title: "Academics"
-    url: /academics/
+  # title: "Academics"
+   # url: /academics/
         
   - title: "Gallery"
     url: /gallery/
