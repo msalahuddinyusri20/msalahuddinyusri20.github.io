@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Extra-Curriculur Achievement](/_pages/photos/vb-medalist.jpg)
+![Extra-Curriculur Achievement](/_pages/photos/kawad-anugerah.jpg)
 
 As an aspiring engineer, I believe that true capability extends beyond the classroom. The following portfolio documents a multi-year track record of academic consistency, high-stakes leadership, and holistic discipline. 
 
