@@ -44,7 +44,7 @@ responsibility to bring others up to your standard.*
 
     <figure style="margin: 0; text-align: center; width: 220px;">
       <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="/_pages/image/Bola-Tampar-(N4).jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
       </div>
       <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
     </figure>
@@ -74,6 +74,19 @@ was competing at state level as a skilled middle blocker.
 and improved is what separates someone with potential from someone who 
 actually delivers.*
 
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    </figure>
+
+  </div>
+</div>
+
 ---
 
 ## EXCO Academic — Pengawas Prep Programme
@@ -101,6 +114,19 @@ prefect-led supervision system for night prep classrooms.
 designing a solution, and managing a team to implement it, a process 
 I intend to apply at a far larger scale as an engineer.*
 
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    </figure>
+
+  </div>
+</div>
+
 ---
 
 ## School Holiday Facilitator Programme
@@ -120,6 +146,19 @@ school had which was regulating my own emotions under genuine frustration.
 The ability to remain composed when things don't go to plan is
 one of the most underrated professional skills there is.*
 
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
+  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+
+    <figure style="margin: 0; text-align: center; width: 220px;">
+      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
+        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+      </div>
+      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    </figure>
+
+  </div>
+</div>
+
 ---
 
 ## Malaysia Stands With Palestine — Solidarity Rally Volunteer
@@ -127,7 +166,7 @@ one of the most underrated professional skills there is.*
 
 Volunteered as a crowd management personnel at the *Malaysia Stands With 
 Palestine* solidarity rally organised by Viva Palestina Malaysia & MyCARE 
-at Dataran Merdeka whcih was one of the largest public gatherings of 2023.
+at Dataran Merdeka which was one of the largest public gatherings of 2023.
 
 - Responsible for directing and managing large crowd movement throughout 
   the event grounds.
