@@ -65,16 +65,6 @@ responsibility to bring others up to your standard.*
     </figure>
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/kawad-merdeka.jpg" alt="National Day Parade"
-        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
-        border:0.5px solid #ccc;display:block;">
-      <figcaption style="font-size:12px;color:gray;margin-top:6px;
-        text-align:center;white-space:normal;line-height:1.4;">
-        National Day Parade 2022 (Middle)
-      </figcaption>
-    </figure>
-
-    <figure style="margin:0;flex-shrink:0;width:200px;">
       <img src="/_pages/photos/merdeka-2023-tv.jpg" alt="National Day Parade"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
