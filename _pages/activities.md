@@ -5,6 +5,8 @@ permalink: /activities/
 author_profile: true
 ---
 
+![Activities Beyond Class](/_pages/photos/kawad-merdeka2.jpg)
+
 *Beyond academic results, a scholar is defined by what they do with their 
 time, their energy, and their sense of responsibility. This page documents 
 the activities and contributions that have shaped my character, leadership, 
