@@ -114,6 +114,8 @@ was competing at state level as a skilled middle blocker.
   MSSWP U18 State Championship (2025)**.
 - Played within a team built on mutual respect and shared development contributing to a
   cohesive team culture and collaborative team tactics that performed consistently.
+- Consequently, developed confidence to play regularly with fellow cohorts during evenings, resulting in
+  stronger scoial skills and network.
 
 *Volleyball taught me that coachability the willingness to be corrected 
 and improved is what separates someone with potential from someone who 
@@ -123,12 +125,52 @@ actually delivers.*
   <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/kawad-anugerah.jpg" alt="State Level Foot March"
+      <img src="/_pages/photos/Volleyball.jpg" alt="Volleyball Team Training 2024"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        State Level Foot March
+        Volleyball Team Training 2024
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/vb-teamplay-2024.jpg" alt="Volleyball Match 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Volleyball MSSWP Match 2024
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/vb-friendly-2024.jpg" alt="Volleyball Friendly Match 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Volleyball Friendly Match 2024
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/vb-medalist-stage2025.jpg" alt="Volleyball Medalist 2025"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Volleyball MSSWP Medalist 2025
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/evening-vb2.jpg" alt="Volleyball Evening Game"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Volleyball Evening Game
       </figcaption>
     </figure>
 
@@ -162,14 +204,17 @@ prefect-led supervision system for night prep classrooms.
 designing a solution, and managing a team to implement it, a process 
 I intend to apply at a far larger scale as an engineer.*
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
-  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+<div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
+  <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
-    <figure style="margin: 0; text-align: center; width: 220px;">
-      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/Volleyball.jpg" alt="Volleyball Team Training 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Volleyball Team Training 2024
+      </figcaption>
     </figure>
 
   </div>
