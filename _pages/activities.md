@@ -208,6 +208,16 @@ I intend to apply at a far larger scale as an engineer.*
   <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/comittee-members.JPG" alt="Comittee Meeting 2025"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Comittee Meeting (Exco Academic) 2024
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
       <img src="/_pages/photos/comittee-meeting.jpg" alt="Comittee Meeting 2025"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
@@ -239,14 +249,57 @@ school had which was regulating my own emotions under genuine frustration.
 The ability to remain composed when things don't go to plan is
 one of the most underrated professional skills there is.*
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
-  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+<div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
+  <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
-    <figure style="margin: 0; text-align: center; width: 220px;">
-      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/fasi-2022.JPG" alt="Fasilitator 2022"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        1st Fasilitator Appearance (2022)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/fasi-2023-show.jpg" alt="Fasilitator 2023"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        2nd Fasilitator Appearance (2023)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/fasi-kids-2023.jpg" alt="Fasilitator 2023"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Bonding with Kids as a Fasilitator (2023)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/fasilitator-activity.jpg" alt="Fasilitator 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        3rd Fasilitator Appearance (2024)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/fasilitator-gift.jpg" alt="Fasilitator 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Fasilitator Appreciation (2024)
+      </figcaption>
     </figure>
 
   </div>
@@ -265,6 +318,42 @@ at Dataran Merdeka which was one of the largest public gatherings of 2023.
   the event grounds.
 - Demonstrated civic responsibility and community engagement beyond the 
   school environment.
+
+<div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
+  <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/sukarelawan-palestin.jpg" alt="Palestine Solidarity 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Palestine Solidarity Gathering Crowd
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/palestin-sukarelawan.jpg" alt="Palestine Solidarity 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Palestine Solidarity Gathering Volunteer
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/palestin-poster.jpg" alt="Palestine Solidarity 2024"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Palestine Solidarity Gathering Poster
+      </figcaption>
+    </figure>
+
+  </div>
+</div>
 
 ---
 
