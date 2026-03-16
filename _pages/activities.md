@@ -41,14 +41,67 @@ training others.
 team is not different from engineering. Precision is not optional. Neither is the 
 responsibility to bring others up to your standard.*
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
-  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+<div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
+  <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
-    <figure style="margin: 0; text-align: center; width: 220px;">
-      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kawad-anugerah.jpg" alt="State Level Foot March"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        State Level Foot March
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kawad-merdeka.jpg" alt="National Day Parade"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        National Day Parade 2022
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kawad-merdeka.jpg" alt="National Day Parade"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        National Day Parade 2022 (Middle)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/merdeka-2023-tv.jpg" alt="National Day Parade"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        National Day Parade 2023 TV Broadcast (Far Left)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kawad_kebangsaan_group.JPG" alt="National Level Formation March"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        National Level Formation March 2024 (second from bottom left)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kawad_negeri_solo.JPG" alt="State Level Formation March"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        State Level Foot March 2024
+      </figcaption>
     </figure>
 
   </div>
@@ -76,14 +129,17 @@ was competing at state level as a skilled middle blocker.
 and improved is what separates someone with potential from someone who 
 actually delivers.*
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0; scrollbar-width: thin;">
-  <div style="display: flex; gap: 20px; width: max-content; padding-bottom: 10px;">
+<div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
+  <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
-    <figure style="margin: 0; text-align: center; width: 220px;">
-      <div style="height: 310px; width: 220px; border: 1px solid #555; border-radius: 4px; overflow: hidden; background-color: white; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">
-        <img src="/_pages/image/dum.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-      </div>
-      <figcaption style="font-size: 0.85em; margin-top: 10px; white-space: normal; font-weight: bold;">Volleyball MSSWP Championship (2024): 4th Place</figcaption>
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kawad-anugerah.jpg" alt="State Level Foot March"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        State Level Foot March
+      </figcaption>
     </figure>
 
   </div>
