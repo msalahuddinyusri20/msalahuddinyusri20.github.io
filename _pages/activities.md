@@ -322,13 +322,13 @@ at Dataran Merdeka which was one of the largest public gatherings of 2023.
 <div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
   <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
-    <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/sukarelawan-palestin.jpg" alt="Palestine Solidarity 2024"
+  <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/palestine-poster.jpg" alt="Palestine Solidarity 2024"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        Palestine Solidarity Gathering Crowd
+        Palestine Solidarity Gathering Poster
       </figcaption>
     </figure>
 
@@ -343,12 +343,12 @@ at Dataran Merdeka which was one of the largest public gatherings of 2023.
     </figure>
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/palestin-poster.jpg" alt="Palestine Solidarity 2024"
+      <img src="/_pages/photos/sukarelawan-palestin.jpg" alt="Palestine Solidarity 2024"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        Palestine Solidarity Gathering Poster
+        Palestine Solidarity Gathering Crowd
       </figcaption>
     </figure>
 
