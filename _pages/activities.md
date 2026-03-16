@@ -155,7 +155,7 @@ actually delivers.*
     </figure>
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/vb-medalist-stage2025.jpg" alt="Volleyball Medalist 2025"
+      <img src="/_pages/photos/vb-medalist-stage2024.jpg" alt="Volleyball Medalist 2025"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
@@ -208,12 +208,12 @@ I intend to apply at a far larger scale as an engineer.*
   <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/Volleyball.jpg" alt="Volleyball Team Training 2024"
+      <img src="/_pages/photos/comittee-meeting.jpg" alt="Comittee Meeting 2025"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        Volleyball Team Training 2024
+        Comittee Meeting (Exco Academic) 2024
       </figcaption>
     </figure>
 
