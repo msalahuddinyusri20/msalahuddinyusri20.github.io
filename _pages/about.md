@@ -9,7 +9,7 @@ redirect_from:
 
 ![On Stage Achievement](image/pentas.jpg)
 
-I am **Muhammad Salahuddin**, a 2025 SPM Graduate dedicated to academic excellence and leadership development. This site is a comprehensive website of my journey, designed to provide a deeper look into the achievements and experiences beyond my CV.
+I am **Muhammad Salahuddin**, a 2025 SPM Graduate dedicated to academic excellence and leadership development. This site is a comprehensive record of my journey, designed to provide a deeper look into the achievements and experiences beyond my CV.
 
 ## My Vision
 
