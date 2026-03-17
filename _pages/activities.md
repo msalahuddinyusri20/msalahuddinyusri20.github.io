@@ -115,7 +115,7 @@ was competing at state level as a skilled middle blocker.
 - Played within a team built on mutual respect and shared development contributing to a
   cohesive team culture and collaborative team tactics that performed consistently.
 - Consequently, developed confidence to play regularly with fellow cohorts during evenings, resulting in
-  stronger scoial skills and network.
+  stronger social skills and network.
 
 *Volleyball taught me that coachability the willingness to be corrected 
 and improved is what separates someone with potential from someone who 
@@ -258,7 +258,7 @@ one of the most underrated professional skills there is.*
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        1st Fasilitator Appearance (2022)
+        1st Facilitator Appearance (2022)
       </figcaption>
     </figure>
 
@@ -268,7 +268,7 @@ one of the most underrated professional skills there is.*
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        2nd Fasilitator Appearance (2023)
+        2nd Facilitator Appearance (2023)
       </figcaption>
     </figure>
 
@@ -278,7 +278,7 @@ one of the most underrated professional skills there is.*
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        Bonding with Kids as a Fasilitator (2023)
+        Bonding with Kids as a Facilitator (2023)
       </figcaption>
     </figure>
 
@@ -288,7 +288,7 @@ one of the most underrated professional skills there is.*
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        3rd Fasilitator Appearance (2024)
+        3rd Facilitator Appearance (2024)
       </figcaption>
     </figure>
 
@@ -298,7 +298,7 @@ one of the most underrated professional skills there is.*
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        Fasilitator Appreciation (2024)
+        Facilitator Appreciation (2024)
       </figcaption>
     </figure>
 
