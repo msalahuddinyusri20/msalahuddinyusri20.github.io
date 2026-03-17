@@ -70,7 +70,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 * **Operations Management:** Directed a team of 8 academic committee members (AJK Akademik) to execute the "Pengawas Prep" program, ensuring a highly disciplined and optimized study environment for the student body as well as providing impactful solutions for relevant academic issues.
 * **Resource Allocation:** Designed and enforced maintenance schedules, improving the overall conduciveness of academic facilities especially the studying room located in the school hostel.
 
-**Pegawai Waran II (Kadet Remaja Sekolah - KRS)** | *2024 - 2025*
+**Pegawai Waran I (Kadet Remaja Sekolah - KRS)** | *2024 - 2025*
 * **High-Stakes Performance:** Represented the school at the State and National levels for foot drill competitions, involving the collaboration with other uniform bodies specifically the Scouts during the National level formation march competition.
 * **Team Discipline:** Demonstrated elite physical endurance, precision teamwork, and the ability to execute complex commands under high-pressure competitive environments especially during the National level formation march competition. Hence, showcasing the ability to perform complex formations and organized movement while maintaining a precise collective footwork.
 
@@ -98,7 +98,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
 **Adobe Photoshop** — Basic graphic design and poster editing.
 - Designed and edited promotional materials for school events.
 
-**[Video Editing Software]** — Video editing and post-production.
+**Video Editing** — Video editing and post-production.
 - Produced and edited the Anti-Bullying Creative Video as a team that achieved 
   Champion at School Level and 4th Place at State Level (2024).
 
