@@ -357,6 +357,106 @@ at Dataran Merdeka which was one of the largest public gatherings of 2023.
 
 ---
 
+## Kursus Eksklusif Ke Arah Jurutera Profesional
+**7 – 8 February 2026 | Pulse Grande Hotel, Putrajaya**
+
+Organised by Pertubuhan Penggerak Dakwah Putrajaya, this exclusive 
+two-day programme was the second phase of a structured engineering 
+exposure series. The participants were selected based on genuine 
+passion and commitment during Phase 1, a preliminary session designed 
+to filter serious candidates from casual attendees. Those selected 
+proceeded to Phase 2 for hands-on engineering work with handds-on tools, 
+real systems, and realistic problem-solving.
+
+**Day 1 — 3D Design & Digital Fabrication**
+- Introduced to CAD fundamentals using Onshape, designing a 3D keychain 
+  from scratch and seeing it through to physical production via 3D printing
+  a complete design-to-manufacture cycle in a single session.
+- Received an introductory briefing on Internet of Things (IoT) concepts 
+  and their applications in modern engineering systems.
+
+**Day 2 — IoT Systems & Engineering Pitching**
+- Designed and programmed an Arduino circuit to control a motor 
+  wirelessly via WiFi. Built a web interface accessible through a 
+  specific IP address which was a hands-on introduction to embedded systems and 
+  network-controlled hardware.
+- Participated in a team pitching challenge: we were given the real-world problem 
+  of highway accidents involving lorries, teams were tasked to design, 
+  present and defend an engineering solution to the facilitators.
+
+*This programme was the clearest preview yet of what engineering actually 
+demands which was the ability to move from concept to prototype, to integrate 
+software with hardware, and to defend your solution. It 
+confirmed that this is exactly the path I want to pursue.*
+
+<div style="overflow-x:auto;padding:12px 0 16px;scrollbar-width:thin;">
+  <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kursus-poster.jpg" alt="Course Poster"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Kursus Ke Arah Jurutera Profesional (Official Poster)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kursus-group-photo.jpg" alt="Course Participants"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Course Participants and Fasilitators
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/Kursus-Jurutera.jpg" alt="Arduino IoT Session"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Arduino IoT (On News)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kursus-design.jpg" alt="3D Modelling"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        3D Modelling Session (Onshape CAD)
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kursus-participants.jpg" alt="Course Participants"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Some of the Course Participants
+      </figcaption>
+    </figure>
+
+    <figure style="margin:0;flex-shrink:0;width:200px;">
+      <img src="/_pages/photos/kursus-sijil.jpg" alt="Participation Certificate"
+        style="width:200px;height:150px;object-fit:cover;border-radius:8px;
+        border:0.5px solid #ccc;display:block;">
+      <figcaption style="font-size:12px;color:gray;margin-top:6px;
+        text-align:center;white-space:normal;line-height:1.4;">
+        Certificate of Participation
+      </figcaption>
+    </figure>
+
+  </div>
+</div>
+
+---
+
 ## Competitions & Intellectual Participation
 
 *Not every competition ends with a trophy. The following entries reflect 
