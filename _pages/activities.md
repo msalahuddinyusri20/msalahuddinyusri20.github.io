@@ -213,7 +213,7 @@ I intend to apply at a far larger scale as an engineer.*
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
         text-align:center;white-space:normal;line-height:1.4;">
-        Comittee Meeting (Exco Academic) 2024
+        Comittee Members 2024/2025
       </figcaption>
     </figure>
 
