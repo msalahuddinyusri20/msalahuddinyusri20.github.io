@@ -45,7 +45,7 @@ A highly disciplined 2025 SPM Graduate and aspiring Engineer consistently ranked
   <div style="display: flex; gap: 20px; width: max-content;">
 
     <figure style="margin: 0; text-align: center; width: 220px;">
-      <img src="/_pages/image/SPM_dummy" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
+      <img src="/_pages/image/dum.jpg" style="height: 310px; width: 220px; border-radius: 6px; border: 1px solid #eee; object-fit: contain;">
       <figcaption style="font-size: 0.8em; margin-top: 5px; white-space: normal; color: #FFFFFF;"><b>SPM Result Slip</b></figcaption>
     </figure>
 
