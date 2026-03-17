@@ -233,9 +233,9 @@ I intend to apply at a far larger scale as an engineer.*
 ---
 
 ## School Holiday Facilitator Programme
-**2023 | Primary School Educational Camp**
+**2022-2024 | Primary School Educational Camp**
 
-During a school break in 2023, I volunteered as a facilitator for a 
+During a school break in 2022, 2023, and 2024, I volunteered as a facilitator for a 
 holiday programme serving primary school children, conducting educational 
 activities and managing group sessions.
 
@@ -393,7 +393,7 @@ confirmed that this is exactly the path I want to pursue.*
   <div style="display:flex;gap:12px;width:max-content;padding-bottom:4px;">
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/kursus-poster.jpg" alt="Course Poster"
+      <img src="/_pages/photos/kursus-poster.jpeg" alt="Course Poster"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
@@ -403,7 +403,7 @@ confirmed that this is exactly the path I want to pursue.*
     </figure>
 
     <figure style="margin:0;flex-shrink:0;width:200px;">
-      <img src="/_pages/photos/kursus-group-photo.jpg" alt="Course Participants"
+      <img src="/_pages/photos/kursus-group-photo.jpeg" alt="Course Participants"
         style="width:200px;height:150px;object-fit:cover;border-radius:8px;
         border:0.5px solid #ccc;display:block;">
       <figcaption style="font-size:12px;color:gray;margin-top:6px;
